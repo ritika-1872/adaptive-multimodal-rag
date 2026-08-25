@@ -1,3 +1,4 @@
+
 # Adaptive Multimodal RAG
 
 An adaptive multimodal Retrieval-Augmented Generation system
@@ -27,3 +28,6 @@ experiments/   Experimental implementations
 notebooks/     Exploratory notebooks
 app/           Application/demo
 configs/       Configuration files
+
+
+
