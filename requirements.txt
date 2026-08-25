@@ -22,3 +22,5 @@ Pillow
 
 tqdm
 requests
+
+PyMuPDF
